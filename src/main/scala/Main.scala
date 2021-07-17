@@ -4,7 +4,5 @@ object Main extends App {
 
   val inputFilePath = args(0)
 
-  val resultJson = Processor.toSilenceEntries()
-
-  println("a")
+  //val resultJson = Processor.toSilenceEntries()
 }
